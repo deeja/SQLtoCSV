@@ -6,6 +6,8 @@ This is a simple program that fulfils specific requirements
 
 Very simple to use. Just start it up and enter in the connection string, query and the output file name for the CSV.
 
+![SQLtoCSV Screenshot](http://i.imgur.com/hbZxbZt.png)
+
 ### Tech / 3rd Party Stuff
 * [CSV Helper](https://www.nuget.org/packages/CsvHelper/) -  An awesome CSV handling library
 
