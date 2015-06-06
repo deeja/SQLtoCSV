@@ -1,5 +1,8 @@
 # SQL to CSV tool for MSSQL
 ### When SQL Server Management Studio (SSMS) is not enough
+
+<a href='https://pledgie.com/campaigns/29418'><img alt='Click here to lend your support to: Beer and coffee money and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/29418.png?skin_name=chrome' border='0' ></a>
+
 This is a simple program that fulfils specific requirements
 
   - You need a CSV created from a SQL query
